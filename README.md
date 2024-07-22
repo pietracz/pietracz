@@ -41,9 +41,9 @@
 <br>
 
 <div align="center">
-<a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32">
-<a href="https://www.instagram.com/julian.pietracz/"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32">
-<a href="#"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32">
+<a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a>
+<a href="https://www.instagram.com/julian.pietracz/"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32"></a>
+<a href="#"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
 </div>
 
 <br>
