@@ -37,7 +37,9 @@
 
 <br>
 
-## <p align="center"><b> Contact me!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
+***
+
+<h2 align="center">Contact me!<br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
 <br>
 
 <div align="center">
