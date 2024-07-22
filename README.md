@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+greatest+masters+are+those;who+never+stop+being+students." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+greatest+masters+are+those" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 
 ## <p align="center"><b>Skills</b><br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;" align="center">
 
 **Front-End Development**:
 <br>
@@ -48,7 +48,7 @@
 <br>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex;" align="center">
 
 **Cloud Hosting**:
 <br>
@@ -59,6 +59,7 @@
 
 **Extras**:
 <br>
+
 <div style="display: flex;">
 <img src="git.svg" alt="">
 <img src="github.svg" alt="">
@@ -67,8 +68,11 @@
 <img src="virtualbox.svg" alt="">
 <img src="markdown.svg" alt="">
 </div>
+
 <br>
+
 </div>
+
 ## <p align="center"><b> Contact me!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 
 <br>
