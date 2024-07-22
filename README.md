@@ -10,10 +10,13 @@
 
 <p align="center">
 
-- 👨‍💻 Passionate developer at night
-- 🚴 Cyclist by day
-- 🌱 Currently honing my skills in web development
-- 🌍 Personal website: [link](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
+👨‍💻 Passionate developer at night
+<br>
+🚴 Cyclist by day
+<br>
+🌱 Currently honing my skills in web development
+<br>
+🌍 Personal website: [link](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
 
 </p>
 
