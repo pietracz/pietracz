@@ -7,9 +7,7 @@
 <div style="display: flex; flex-direction: row; align-items: center;"><img src="https://img.icons8.com/?size=100&id=grll04kZMqn8&format=png&color=000000" width="16" height="16" style="margin-right: 10px; vertical-align: middle;"><div> A passionate developer at night </div></div>
 
 <div style="display: flex; align-items: center;">
-<img src="https://img.icons8.com/?size=100&id=Xu2pngz2h4eX&format=png&color=000000" width="16" height="16" style="margin-right: 10px; vertical-align: middle;">
-<div> Cyclist by day </div>
-</div>
+<img src="https://img.icons8.com/?size=100&id=Xu2pngz2h4eX&format=png&color=000000" width="16" height="16" style="margin-right: 10px; vertical-align: middle;">Cyclist by day</div>
 
 <div style="display: flex; align-items: center;">
 <img src="https://img.icons8.com/?size=100&id=y5tfsG7zJpNY&format=png&color=000000" width="16" height="16" style="margin-right: 10px; vertical-align: middle;">
