@@ -19,17 +19,9 @@
 
 <div style="display: flex" align="center">
 
-| **Front-End Development** | **Back-End Development** | **Testing** |
-| :-------: | :------: | :-------: |
-|<img src="html.svg" alt="HTML" width="32" height="32"><img src="css.svg" alt="CSS" width="32" height="32"><img src="javascript.svg" alt="JavaScript" width="32" height="32"><img src="vite.svg" alt="Vite" width="32" height="32"><img src="react.svg" alt="React" width="32" height="32"></div> | <img src="node.svg" alt="Node.js" width="32" height="32"><img src="mysql.svg" alt="MySQL" width="32" height="32"> | <img src="jest.svg" alt="Jest" width="32" height="32"><img src="selenium.svg" alt="Selenium" width="32" height="32"> |
-
-</div>
-<br>
-<div style="display: flex" align="center">
-
-| **Cloud Hosting** | **Extras** |
-| :-------: | :-------: |
-| <img src="aws.svg" alt="AWS" width="32" height="32"> | <img src="git.svg" alt="Git" width="32" height="32"><img src="github.svg" alt="GitHub" width="32" height="32"><img src="python.svg" alt="Python" width="32" height="32"><img src="linux.svg" alt="Linux" width="32" height="32"><img src="virtualbox.svg" alt="VirtualBox" width="32" height="32"><img src="markdown.svg" alt="Markdown" width="32" height="32"> |
+| **Front-End Development** | **Back-End Development** | **Testing** | **Cloud Hosting** | **Extras** |
+| :-------: | :------: | :-------: | :-------: | :-------: |
+|<img src="html.svg" alt="HTML" width="32" height="32"><img src="css.svg" alt="CSS" width="32" height="32"><img src="javascript.svg" alt="JavaScript" width="32" height="32"><img src="vite.svg" alt="Vite" width="32" height="32"><img src="react.svg" alt="React" width="32" height="32"></div> | <img src="node.svg" alt="Node.js" width="32" height="32"><img src="mysql.svg" alt="MySQL" width="32" height="32"> | <img src="jest.svg" alt="Jest" width="32" height="32"><img src="selenium.svg" alt="Selenium" width="32" height="32"> | <img src="aws.svg" alt="AWS" width="32" height="32"> | <img src="git.svg" alt="Git" width="32" height="32"><img src="github.svg" alt="GitHub" width="32" height="32"><img src="python.svg" alt="Python" width="32" height="32"><img src="linux.svg" alt="Linux" width="32" height="32"><img src="virtualbox.svg" alt="VirtualBox" width="32" height="32"><img src="markdown.svg" alt="Markdown" width="32" height="32"> |
 
 </div>
 
