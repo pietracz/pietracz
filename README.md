@@ -3,9 +3,8 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+greatest+masters+are+those" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+greatest+masters++are+those;+who+never+stop+being+students." alt="Typing SVG" /></a>
 </p>
-
 
 ## <p align="center"><b>About me</b><br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></p>
 
@@ -18,59 +17,48 @@
 
 ## <p align="center"><b>Skills</b><br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></p>
 
-<div style="display: flex;" align="center">
+<div align="center">
 
-**Front-End Development**:
+### **Front-End Development**
 <br>
-<div style="display: flex;">
-  <img src="html.svg" alt="">
-  <img src="css.svg" alt="">
-  <img src="javascript.svg" alt="">
-  <img src="vite.svg" alt="">
-  <img src="react.svg" alt="">
-</div>
-<br>
+<img src="html.svg" alt="HTML" width="32" height="32">
+<img src="css.svg" alt="CSS" width="32" height="32">
+<img src="javascript.svg" alt="JavaScript" width="32" height="32">
+<img src="vite.svg" alt="Vite" width="32" height="32">
+<img src="react.svg" alt="React" width="32" height="32">
+<br><br>
 
-**Back-End Development**:
+### **Back-End Development**
 <br>
-<div style="display: flex;">
-  <img src="node.svg" alt="">
-  <img src="mysql.svg" alt="">
-</div>
-<br>
+<img src="node.svg" alt="Node.js" width="32" height="32">
+<img src="mysql.svg" alt="MySQL" width="32" height="32">
 
-**Testing**:
+<br><br>
+
+### **Testing**
 <br>
-<div style="display: flex;">
-  <img src="jest.svg" alt="">
-  <img src="selenium.svg" alt="">
-</div>
-<br>
+<img src="jest.svg" alt="Jest" width="32" height="32">
+<img src="selenium.svg" alt="Selenium" width="32" height="32">
+
 </div>
 
-<div style="display: flex;" align="center">
+<div align="center">
 
-**Cloud Hosting**:
+### **Cloud Hosting**
 <br>
-<div style="display: flex;">
-<img src="aws.svg" alt="">
-</div>
+<img src="aws.svg" alt="AWS" width="32" height="32">
+
+<br><br>
+
+### **Extras**
 <br>
-
-**Extras**:
-<br>
-
-<div style="display: flex;">
-<img src="git.svg" alt="">
-<img src="github.svg" alt="">
-<img src="python.svg" alt="">
-<img src="linux.svg" alt="">
-<img src="virtualbox.svg" alt="">
-<img src="markdown.svg" alt="">
-</div>
-
-<br>
-
+<img src="git.svg" alt="Git" width="32" height="32">
+<img src="github.svg" alt="GitHub" width="32" height="32">
+<img src="python.svg" alt="Python" width="32" height="32">
+<img src="linux.svg" alt="Linux" width="32" height="32">
+<img src="virtualbox.svg" alt="VirtualBox" width="32" height="32">
+<img src="markdown.svg" alt="Markdown" width="32" height="32">
+<br><br>
 </div>
 
 ## <p align="center"><b> Contact me!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
