@@ -21,48 +21,48 @@
 
 **Front-End Development**:
 <br>
-
+<div style="display: flex;">
   <img src="html.svg" alt="">
   <img src="css.svg" alt="">
   <img src="javascript.svg" alt="">
   <img src="vite.svg" alt="">
   <img src="react.svg" alt="">
-
+</div>
 <br>
 
 **Back-End Development**:
 <br>
-    
+<div style="display: flex;">
   <img src="node.svg" alt="">
   <img src="mysql.svg" alt="">
-
+</div>
 <br>
 
 **Testing**:
 <br>
-
+<div style="display: flex;">
   <img src="jest.svg" alt="">
   <img src="selenium.svg" alt="">
-
+</div>
 <br>
 
 **Cloud Hosting**:
 <br>
-
+<div style="display: flex;">
 <img src="aws.svg" alt="">
-
+</div>
 <br>
 
 **Extras**:
 <br>
-
+<div style="display: flex;">
 <img src="git.svg" alt="">
 <img src="github.svg" alt="">
 <img src="python.svg" alt="">
 <img src="linux.svg" alt="">
 <img src="virtualbox.svg" alt="">
 <img src="markdown.svg" alt="">
-
+</div>
 <br>
 
 ## <p align="center"><b> Contact me!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
