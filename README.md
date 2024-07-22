@@ -2,11 +2,11 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+greatest+masters++are+those;+who+never+stop+being+students." alt="Typing SVG" /></a>
 </p>
 
-<br>
+<br> -->
 
 ## <p align="center"><b>About me</b><!-- <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> --></p>
 
