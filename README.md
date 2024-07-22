@@ -8,6 +8,7 @@
 
 ## <p align="center"><b>About me</b><br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></p>
 
+<div align="center">
 👨‍💻 Passionate developer at night.
 <br>
 🚴 Cyclist by day.
@@ -15,10 +16,12 @@
 📖 Always striving to become better. 
 <br>
 🌱 Currently honing my skills in web development.
+</div>
 
 <br>
 
 ## <p align="center"><b>Skills</b><br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></p>
+<br>
 
 <div style="display: flex" align="center">
 
@@ -31,12 +34,10 @@
 <br>
 
 ## <p align="center"><b> Contact me!</b><br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
+<br>
 
 <div align="center">
 <a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32">
 <a href="https://www.instagram.com/julian.pietracz/"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32">
 <a href="#"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32">
 </div>
-<br>
-
-<br>
