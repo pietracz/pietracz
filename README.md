@@ -8,17 +8,15 @@
 
 ## <p align="center"><b>About me</b><br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></p>
 
-<p align="center">
-
+<div style="display: flex; justify-content: center">
+<p>
 👨‍💻 Passionate developer at night
 <br>
 🚴 Cyclist by day
 <br>
 🌱 Currently honing my skills in web development
-<br>
-🌍 Personal website: [link](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
-
 </p>
+</div>
 
 <br>
 
@@ -28,7 +26,7 @@
 
 | **Front-End Development** | **Back-End Development** | **Testing** | **Cloud Hosting** | **Extras** |
 | :-------: | :------: | :-------: | :-------: | :-------: |
-|<img src="html.svg" alt="HTML" width="32" height="32"><img src="css.svg" alt="CSS" width="32" height="32"><img src="javascript.svg" alt="JavaScript" width="32" height="32"><img src="vite.svg" alt="Vite" width="32" height="32"><img src="react.svg" alt="React" width="32" height="32"></div> | <img src="node.svg" alt="Node.js" width="32" height="32"><img src="mysql.svg" alt="MySQL" width="32" height="32"> | <img src="jest.svg" alt="Jest" width="32" height="32"><img src="selenium.svg" alt="Selenium" width="32" height="32"> | <img src="aws.svg" alt="AWS" width="32" height="32"> | <img src="git.svg" alt="Git" width="32" height="32"><img src="github.svg" alt="GitHub" width="32" height="32"><img src="python.svg" alt="Python" width="32" height="32"><img src="linux.svg" alt="Linux" width="32" height="32"><img src="virtualbox.svg" alt="VirtualBox" width="32" height="32"><img src="markdown.svg" alt="Markdown" width="32" height="32"> |
+|<img src="./svg/html.svg" alt="HTML" width="32" height="32"><img src="./svg/css.svg" alt="CSS" width="32" height="32"><img src="./svg/javascript.svg" alt="JavaScript" width="32" height="32"><img src="./svg/vite.svg" alt="Vite" width="32" height="32"><img src="./svg/react.svg" alt="React" width="32" height="32"></div> | <img src="./svg/node.svg" alt="Node.js" width="32" height="32"><img src="./svg/mysql.svg" alt="MySQL" width="32" height="32"> | <img src="./svg/jest.svg" alt="Jest" width="32" height="32"><img src="./svg/selenium.svg" alt="Selenium" width="32" height="32"> | <img src="./svg/aws.svg" alt="AWS" width="32" height="32"> | <img src="./svg/git.svg" alt="Git" width="32" height="32"><img src="./svg/github.svg" alt="GitHub" width="32" height="32"><img src="./svg/python.svg" alt="Python" width="32" height="32"><img src="./svg/linux.svg" alt="Linux" width="32" height="32"><img src="./svg/virtualbox.svg" alt="VirtualBox" width="32" height="32"><img src="./svg/markdown.svg" alt="Markdown" width="32" height="32"> |
 
 </div>
 
