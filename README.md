@@ -17,10 +17,12 @@
 <br>
 
 ## <b> Skills</b>
+<div style="display:flex; flex-direction: column; gap: 20px;">
+<div style="display: flex; gap: 20px;">
+<div>
 
-<p align="center">
-    
-- **Front-End Development**:
+**Front-End Development**:
+  <br>
 
   <img src="html.svg" alt="">
   <img src="css.svg" alt="">
@@ -28,36 +30,80 @@
   <img src="vite.svg" alt="">
   <img src="react.svg" alt="">
 
-<br>
+  </div>
+  <div>
 
-- **Back-End Development**
-
+**Back-End Development**:
+  <br>
+    
   <img src="node.svg" alt="">
   <img src="mysql.svg" alt="">
 
-<br>
+</div>
+<div>
 
-- **Cloud Hosting**:
-
-  <img src="aws.svg" alt="">
-
-<br>
-
-- **Testing**:
+**Testing**:
+  <br>
 
   <img src="jest.svg" alt="">
   <img src="selenium.svg" alt="">
 
+</div>
+</div>
+
+<div style="display: flex; gap: 20px;">
+<div>
+
+**Cloud Hosting**:
 <br>
 
-- **Extras**:
+<img src="aws.svg" alt="">
 
-  <img src="git.svg" alt="">
-  <img src="github.svg" alt="">
-  <img src="python.svg" alt="">
-  <img src="linux.svg" alt="">
-  <img src="virtualbox.svg" alt="">
-  <img src="markdown.svg" alt="">
+</div>
+<div>
 
-</p>
+**Extras**:
+<br>
 
+<img src="git.svg" alt="">
+<img src="github.svg" alt="">
+<img src="python.svg" alt="">
+<img src="linux.svg" alt="">
+<img src="virtualbox.svg" alt="">
+<img src="markdown.svg" alt="">
+</div>
+</div>
+</div>
+
+## <b> Contact me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
