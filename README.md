@@ -44,7 +44,7 @@
 <div align="center">
 <a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a>
 <a href="https://www.instagram.com/julian.pietracz/"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32"></a>
-<a href="www.linkedin.com/in/julian-pietracz-04b08231b"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/julian-pietracz-04b08231b/"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
 </div>
 
 <br>
