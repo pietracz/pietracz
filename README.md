@@ -12,13 +12,12 @@
 
 
 <div align="center">
-👨‍💻 Passionate developer at night.
+👨‍💻 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set.
 <br>
-🚴 Cyclist by day.
+📖 Proficient in front-end development with a growing understanding of back-end technologies. I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
 <br>
-📖 Always striving to become better. 
+🚴 Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life balance.
 <br>
-🌱 Currently honing my skills in web development.
 </div>
 
 <br><br>
@@ -45,7 +44,7 @@
 <div align="center">
 <a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a>
 <a href="https://www.instagram.com/julian.pietracz/"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32"></a>
-<a href="#"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/julian-pietracz-04b08231b/"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
 </div>
 
 <br>
