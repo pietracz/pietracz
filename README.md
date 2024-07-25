@@ -12,9 +12,9 @@
 
 
 <div align="center">
-👨‍💻 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set.
+👨‍💻 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." <!-- I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set. -->
 <br>
-📖 Proficient in front-end development with a growing understanding of back-end technologies. I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
+📖 <!-- Proficient in front-end development with a growing understanding of back-end technologies. --> I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
 <br>
 🚴 Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life balance.
 <br>
