@@ -38,7 +38,7 @@
 <br><br>
 
 
-<h2 align="center">Contact me!<br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<h2 align="center">Contact me!<br><img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"></h2>
 <br>
 
 <div align="center">
