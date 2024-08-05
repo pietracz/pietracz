@@ -41,9 +41,7 @@
 
 <br><br>
 
-## <p align="center"><b>Skills</b><!-- <img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"> --></p>
-
-<br>
+## <p align="center"><b>Contact me!</b><!-- <img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"> --></p>
 
 <div align="center">
 <a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a>
