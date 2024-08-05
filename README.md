@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Julian Pietracz</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Julian Pietracz</b><!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> --></h1>
 
 <br>
 
@@ -11,9 +11,9 @@
 ## <p align="center"><b>About me</b><!-- <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> --></p>
 
 <div align="center">
-👨‍💻 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set.
+👨‍💻 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." <!-- I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set. -->
 <br>
-📖 Proficient in front-end development with a growing understanding of back-end technologies. I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
+📖 <!-- Proficient in front-end development with a growing understanding of back-end technologies. --> I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
 <br>
 🚴 Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life balance.
 <br>
@@ -41,13 +41,13 @@
 
 <br><br>
 
-<h2 align="center">Contact me!<br><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<h2 align="center">Contact me!<br><img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"></h2>
 <br>
 
 <div align="center">
 <a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a>
-<a href="https://www.instagram.com/julian.pietracz/"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32"></a>
-<a href="https://www.linkedin.com/in/julian-pietracz-04b08231b/"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
+<a href="https://www.instagram.com/julian.pietracz/" target="_blank"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32"></a>
+<a href="https://www.linkedin.com/in/julian-pietracz-04b08231b/" target="_blank"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
 </div>
 
 <br>
