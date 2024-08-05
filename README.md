@@ -41,7 +41,8 @@
 
 <br><br>
 
-<h2 align="center">Contact me!<br><!-- <img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"> --></h2>
+## <p align="center"><b>Skills</b><!-- <img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"> --></p>
+
 <br>
 
 <div align="center">
