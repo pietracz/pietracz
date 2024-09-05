@@ -10,7 +10,7 @@
 
 ## <p align="center"><b>About me</b><!-- <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> --></p>
 
-<div align="center">
+<div>
 👨‍💻 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." <!-- I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set. -->
 <br>
 📖 <!-- Proficient in front-end development with a growing understanding of back-end technologies. --> I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
