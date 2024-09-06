@@ -5,10 +5,7 @@
 <!-- <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+greatest+masters++are+those;+who+never+stop+being+students." alt="Typing SVG" /></a>
 </p>
-
-<br> -->
-
-## <p ><b>About me</b><!-- <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> --></p>
+-->
 
 <div>
 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." <!-- I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set. -->
