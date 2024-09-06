@@ -31,7 +31,7 @@ Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life bala
 
 </div>
 
-<div style="display: flex" align="center">
+<div style="display: flex" >
 
 |                                                                **Monitoring**                                                                |
 | :------------------------------------------------------------------------------------------------------------------------------------------: |
