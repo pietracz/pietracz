@@ -41,7 +41,7 @@ Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life bala
 ## <p align="center"><b>Contact me!</b><!-- <img src="https://github.com/pietracz/pietracz/blob/main/22f42c11b612b041b4038573dca18a2d.gif" width ="80"> --></p>
 
 <div align="center">
-<a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a>
+<!-- <a href="#"><img src="./svg/facebook.svg" alt="Instagram" width="32" height="32"></a> -->
 <a href="https://www.instagram.com/julian.pietracz/" target="_blank"><img src="./svg/instagram.svg" alt="Instagram" width="32" height="32"></a>
 <a href="https://www.linkedin.com/in/julian-pietracz-04b08231b/" target="_blank"><img src="./svg/linkedin.svg" alt="Instagram" width="32" height="32"></a>
 </div>
