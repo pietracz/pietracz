@@ -1,4 +1,4 @@
-<h1 ><b>Hi , I'm Julian Pietracz</b><!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> --></h1>
+<h1 align="center"><b>Hi , I'm Julian Pietracz</b><!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> --></h1>
 
 <br>
 
@@ -7,7 +7,7 @@
 </p>
 -->
 
-<div>
+<div align="center">
 Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students." <!-- I am eager to learn and grow in the field of web development, constantly seeking out new challenges and opportunities to expand my skill-set. -->
 <br>
 <!-- Proficient in front-end development with a growing understanding of back-end technologies. --> I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.
@@ -18,9 +18,9 @@ Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life bala
 
 <br><br>
 
-## <p ><b>Skills</b><!-- <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> --></p>
+## <p align="center"><b>Skills</b><!-- <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> --></p>
 
-<div style="display: flex">
+<div style="display: flex" align="center">
 
 |                                                                                                                                                   **Front-End Development**                                                                                                                                                    |                                                   **Back-End Development**                                                    |                                                           **Testing**                                                            |                     **Cloud Hosting**                      |                                                                                                                                                                                              **Extras**                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
