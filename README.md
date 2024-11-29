@@ -1,6 +1,6 @@
 ## About Me:
 
-Aspiring software developer inspired by the philosophy that "The greatest masters are those who never stop being students."<br>I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.<br>Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life balance.
+Full-Stack-Developer inspired by the philosophy that "The greatest masters are those who never stop being students."<br>I am actively building my portfolio and seeking opportunities to collaborate on meaningful projects.<br>Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life balance.
 
 ## Tech Stack:
 
