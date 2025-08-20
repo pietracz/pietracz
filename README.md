@@ -1,4 +1,4 @@
-## About Me:
+### About Me:
 
 Full-Stack-Developer inspired by the philosophy that "The greatest masters are those who never stop being students."<br>Enthusiastic cyclist who enjoys the outdoors and values a healthy work-life balance.
 
